@@ -1,5 +1,5 @@
-# Project Objective:<br>
-Explore, describe, and visualize data which shows population and housing changes throughout the state of Maine. Predictive analysis will be performed if deemed necessary. <br>Work In Progress. <br>
+# Project Objective (WIP):<br>
+Explore, describe, and visualize data which shows population and housing changes throughout the state of Maine. Predictive analysis will be performed if deemed necessary.<br>
 
 
 # Needed packages<br>
