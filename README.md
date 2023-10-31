@@ -14,4 +14,4 @@ matplotlib, pandas, numpy<br>
         https://www.census.gov/data/tables/time-series/demo/income-poverty/cps-hinc.html
     - Zillow Rental Data
         https://www.zillow.com/research/data/
-    - 
+        https://www.zillow.com/research/methodology-zori-repeat-rent-27092/
